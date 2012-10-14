@@ -30,3 +30,4 @@ PRODUCT_NAME := full_grouperota
 PRODUCT_DEVICE := grouper
 PRODUCT_BRAND := Google
 PRODUCT_MODEL := Nexus 7
+PRODUCT_MANUFACTURER := Asus
